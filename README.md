@@ -2,7 +2,7 @@
 
 从基础到生产实践的中文学习指南，涵盖 LLM 推理、GPU、缓存、RAG、向量数据库、智能体、MCP、多模态、安全、评估、可观测性、成本优化和系统设计实践。
 
-**编写与维护、翻译：**Outcome School 创始人 Amit Shekhar、风子357。
+**编写与维护、翻译：** Outcome School 创始人 Amit Shekhar、风子357。
 
 ## 阅读方式
 
